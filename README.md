@@ -11,5 +11,4 @@ Polymorphism: Allowing methods to perform different tasks based on the object in
 
 I’m committed to broadening my skills each day and applying these foundational concepts to larger projects. Stay tuned for more updates!
 
-#Java #Programming #OOP #Encapsulation #Inheritance #Polymorphism #DataTypes #LearningJourney #Day1 #30DayChallenge #C #C++ #DeveloperJourney #TechSkills
 
